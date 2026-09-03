@@ -158,17 +158,6 @@ The motor speed values are **PWM values from 0–255**, not direct voltage or po
 * **C/C++**
 * Arduino UNO board support
 
-## 📁 Repository Structure
-
-```text
-Obstacle-Avoidance-Rover/
-│
-├── obstacle_avoidance_rover.ino
-├── README.md
-└── images/
-    └── rover.jpg
-```
-
 ## 🚀 How to Run
 
 1. Assemble the rover according to the pin connections.
