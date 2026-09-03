@@ -41,26 +41,6 @@ The Arduino UNO processes the sensor readings and controls the motors through th
 | Battery Pack               |           1 |
 | Jumper Wires               | As required |
 
-## 🔌 Pin Connections
-
-### HC-SR04 Sensors
-
-| Sensor | TRIG | ECHO |
-| ------ | ---: | ---: |
-| Front  |   D5 |   D4 |
-| Left   |  D12 |  D13 |
-| Right  |   D2 |   D3 |
-
-### L298N Motor Driver
-
-| L298N Pin | Arduino UNO |
-| --------- | ----------: |
-| ENA       |         D10 |
-| IN1       |          D6 |
-| IN2       |          D7 |
-| IN3       |          D8 |
-| IN4       |          D9 |
-| ENB       |         D11 |
 
 ## 🧠 Working Principle
 
